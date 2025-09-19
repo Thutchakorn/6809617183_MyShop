@@ -1,0 +1,52 @@
+body {
+    background-image: url("resources/background.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: barrio;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(149, 166, 19);
+}
+
+p {
+    font-family: itim;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    width: 100%;
+
+}
+
+#pic {
+    width: 650px;
+    height: 325px;
+    padding: 30px;
+
+
+}
+
+.url {
+    color: black;
+    font-size: 10px;
+}
+
+.video {
+    width: 640px;
+    margin: auto;
+}
+
+.Contact {
+    font-family: itim;
+    font-size: 30px;
+    font-style: oblique;
+    color: chocolate;
+}
